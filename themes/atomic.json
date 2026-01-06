@@ -282,5 +282,6 @@
       "type": "prompt"
     }
   ],
+  "console_title_template": "Terminal",
   "version": 4
 }
