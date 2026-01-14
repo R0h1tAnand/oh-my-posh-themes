@@ -124,7 +124,7 @@
       ]
     }
   ],
-  "console_title_template": "{{if .Root}}[root] {{end}}{{.Shell}} in <{{.Folder}}>",
+  "console_title_template": "Terminal",
   "final_space": true,
   "version": 4
 }
