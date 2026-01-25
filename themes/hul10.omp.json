@@ -22,7 +22,16 @@
           "style": "plain",
           "background": "#464646",
           "foreground": "p:white",
-          "template": "\uF303"
+          "options": {
+            "linux": "\uF303",
+            "arch": "\uF303",
+            "debian": "\uF303",
+            "ubuntu": "\uF303",
+            "manjaro": "\uF303",
+            "fedora": "\uF303",
+            "centos": "\uF303",
+            "opensuse": "\uF303"
+          },
           "template": " {{.Icon}}{{if .WSL}} (WSL){{end}}⠀"
         },
         {
