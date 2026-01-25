@@ -23,11 +23,7 @@
           "background": "#464646",
           "foreground": "p:white",
           "options": {
-            "windows": "",
-            "linux": "",
-            "ubuntu": "",
-            "arch": "",
-            "macos": ""
+            "linux":"arch"
           },
           "template": " {{.Icon}}{{if .WSL}} (WSL){{end}}⠀"
         },
