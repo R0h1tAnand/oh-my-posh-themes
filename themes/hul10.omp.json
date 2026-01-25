@@ -23,14 +23,14 @@
           "background": "#464646",
           "foreground": "p:white",
           "options": {
-            "linux": "\uF303",
-            "arch": "\uF303",
-            "debian": "\uF303",
-            "ubuntu": "\uF303",
-            "manjaro": "\uF303",
-            "fedora": "\uF303",
-            "centos": "\uF303",
-            "opensuse": "\uF303"
+            "linux": "\uf327",
+            "arch": "\uf327",
+            "debian": "\uf327",
+            "ubuntu": "\uf327",
+            "manjaro": "\uf327",
+            "fedora": "\uf327",
+            "centos": "\uf327",
+            "opensuse": "\uf327"
           },
           "template": " {{.Icon}}{{if .WSL}} (WSL){{end}}⠀"
         },
