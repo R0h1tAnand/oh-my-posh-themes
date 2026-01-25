@@ -22,9 +22,7 @@
           "style": "plain",
           "background": "#464646",
           "foreground": "p:white",
-          "options": {
-            "linux":"arch"
-          },
+          "template": " \uF303⠀"
           "template": " {{.Icon}}{{if .WSL}} (WSL){{end}}⠀"
         },
         {
